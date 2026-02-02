@@ -11,14 +11,14 @@ My work spans full-stack development and applied AI systems. I enjoy building cl
 I’m still learning, but I ship often, debug carefully, and try to reduce complexity wherever possible.
 
 💼 Current Focus
-🤖 AI Sales Agent
-· Building a website-embedded AI sales agent for client-facing use cases
-· Designing and maintaining RAG pipelines for accurate, context-aware responses
+🤖 AI Sales Agent<br>
+· Building a website-embedded AI sales agent for client-facing use cases<br>
+· Designing and maintaining RAG pipelines for accurate, context-aware responses<br>
 · Monitoring and improving AI behavior using tracing and observability tools
 
-🧩 Full-Stack Engineering
-· Developing scalable web features with Next.js and React
-· Building backend services with FastAPI
+🧩 Full-Stack Engineering<br>
+· Developing scalable web features with Next.js and React<br>
+· Building backend services with FastAPI<br>
 · Integrating LLM APIs into production systems
 
 🛠️ Tech Stack
