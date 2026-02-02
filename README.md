@@ -23,14 +23,14 @@ I’m still learning, but I ship often, debug carefully, and try to reduce compl
 
 🛠️ Tech Stack
 
-Frontend
+Frontend<br>
 TypeScript · React · Next.js · Tailwind CSS
 
-Backend & AI
+Backend & AI<br>
 Python · FastAPI · LangChain · RAG · LLM APIs
 
-Data & Infra
-PostgreSQL · Vector Databases · Langfuse
+Data & Infra<br>
+PostgreSQL · Vector Databases · Langfuse<br>
 Git · Docker
 
 
