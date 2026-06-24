@@ -70,4 +70,4 @@ I work across the full stack: LLM/RAG pipelines, multi-tenant backend APIs, fron
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/calvinhendra)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:calvinhendra330@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://calvin-hendra-portfolio.vercel.app)
+[![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://calvinhendra.com)
